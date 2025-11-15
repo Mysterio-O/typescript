@@ -1,3 +1,5 @@
+// first pillar of OOP
+
 class Parent {
     name: string;
     age: number;

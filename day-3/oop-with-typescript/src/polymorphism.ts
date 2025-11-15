@@ -1,3 +1,5 @@
+// second pillar of OOP
+
 class Person {
     getSleep() {
         console.log(`I am a Normal Happy Person.I sleep for 8 hours`);
